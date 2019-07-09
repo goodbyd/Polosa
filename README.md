@@ -1,2 +1,3 @@
 # Polosa
-# codelingo.yaml file  tenets:   - import: codelingo/go
+# codelingo.yaml file  tenets:   - import: codelingo/`
+# улыбайтесь!))))
